@@ -5,7 +5,7 @@
 namespace: ishushkin
 
 # The name of the collection. Has the same character restrictions as 'namespace'
-name: prtg-ansible-collection2
+name: prtg
 
 # The version of the collection. Must be compatible with semantic versioning
 version: 1.0.0
